@@ -1,0 +1,3 @@
+Download raw training Data from here:
+https://ieee-dataport.org/open-access/cooking-activity-dataset-macro-and-micro-activities
+
